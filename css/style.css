@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(46, 58, 70);
+}
+.music-card-wrapper{
+    
+  } 
+
+.music-card{
+    text-align: center;
+    min-height: 280px ;
+    margin: 10px 0;
+    background-color: rgb(58, 71, 85);;
+    padding: 10px;
+    width: calc(100% / 6); 
+   
+}
+img{
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+.music-card h5{
+    color: white;
+}
+
+p{
+    color: rgb(155, 155, 155);
+
+  
+}
